@@ -12,9 +12,9 @@ Personalization: Welcomes users with a message and gives users individual settin
 playback preferences).
 
 **2. Modern GUI**
-Developed with CustomTkinter and a responsive interface with an engaging visual.
-Contains CTkImage and well-designed sliders, buttons, and icons like play, pause, shuffle and
-volume included.
+- Developed with CustomTkinter and a responsive interface with an engaging visual.
+  Contains CTkImage and well-designed sliders, buttons, and icons like play, pause, shuffle and
+  volume included.
 
 **3. Music Playback**
 - Core Features: Play, pause, resume, or stop songs from an interactive playlist.
