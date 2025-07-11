@@ -36,12 +36,12 @@ how much is left.
 
 **Technical Highlights:**
 
-GUI: CustomTkinter
-Audio Management: pygame.mixer (Performance of Playback and Volume control)
-State Management: Use pickle (stores user preferences and login sessions)
-File Handling: os and tkinter.filedialog (load MP3 file)
-Audio Metadata: Use mutagen for extracting and displaying detailed song metadata, such as
-duration, enhancing the user experience.
+- GUI: CustomTkinter
+- Audio Management: pygame.mixer (Performance of Playback and Volume control)
+- State Management: Use pickle (stores user preferences and login sessions)
+- File Handling: os and tkinter.filedialog (load MP3 file)
+- Audio Metadata: Use mutagen for extracting and displaying detailed song metadata, such as
+  duration, enhancing the user experience.
 
 
 
