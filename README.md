@@ -7,9 +7,9 @@ and user specific personalization. Users can enjoy continuous music playback wit
 **Key Features:**
 
 **1. login and user personalization**
-Authentication: Users can log in securely to access your personalized sessions easily.
-Personalization: Welcomes users with a message and gives users individual settings (volume,
-playback preferences).
+- Authentication: Users can log in securely to access your personalized sessions easily.
+- Personalization: Welcomes users with a message and gives users individual settings (volume,
+  playback preferences).
 
 **2. Modern GUI**
 - Developed with CustomTkinter and a responsive interface with an engaging visual.
@@ -31,7 +31,7 @@ how much is left.
 - Logout and Exit Options: Log out of or close the app while saving preferences safely.
 - 
 **5. Error Handling**
-It also has robust mechanisms on case such as invalid file formats or playback errors.
+- It also has robust mechanisms on case such as invalid file formats or playback errors.
 
 
 **Technical Highlights:**
