@@ -1,3 +1,5 @@
+# Ultra_Music_Player (Python)
+
 ## Project Description
 
 The Ultra Music Player was developed with CustomTkinter. With its smooth and modern graphical interface, all the features are simple and feature rich making the tool user friendly. This application is a robust music playback application with a desirable set of user authentication, playlist management, 
@@ -84,6 +86,11 @@ Done!
 
 
 
+
+
+
+
+# ScreenShots
 
 
 ## Login Screen
